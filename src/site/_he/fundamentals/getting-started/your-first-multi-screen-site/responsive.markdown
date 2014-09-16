@@ -298,8 +298,8 @@ Viewport רחב נותן לנו שטח נוסף לשימוש כדי להציג �
 <video controls poster="images/responsivetable.png" style="width: 100%;">
   <source src="videos/responsivetable.mov" type="video/mov"></source>
   <source src="videos/responsivetable.webm" type="video/webm"></source>
-  <p>현재 브라우저에서 비디오를 지원하지 않습니다.
-     <a href="videos/responsivetable.mov">비디오 다운로드하기</a>.
+  <p>הדפדפן אינו תומך בוידאו
+     <a href="videos/responsivetable.mov">הורד את הוידאו</a>.
   </p>
 </video>
 
